@@ -1,6 +1,8 @@
 let name = "Dhaval";
-let age = "21";
-let city = "rajkot";
+let age = 21;
+
+age = 22;
+const city = "rajkot";
 
 
 console.log(name);
