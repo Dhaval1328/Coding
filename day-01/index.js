@@ -1,10 +1,10 @@
 let name = "Dhaval";
 let age = 21;
-
-age = 22;
-const city = "rajkot";
+let city = "rajkot";
+let isStudent = "true";
 
 
 console.log(name);
 console.log(age + 10);
 console.log(city);
+console.log(isStudent);
