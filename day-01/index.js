@@ -6,5 +6,5 @@ const city = "rajkot";
 
 
 console.log(name);
-console.log(age);
+console.log(age + 10);
 console.log(city);
