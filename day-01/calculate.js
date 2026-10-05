@@ -3,6 +3,7 @@ let b = 20;
 
 //Calculation
 
+
 console.log(a+b);
 console.log(a-b);
 console.log(a*b);
